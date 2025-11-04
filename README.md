@@ -1,4 +1,4 @@
-# PrivacyPolicy
+PrivacyPolicy
 IC Norath Charitable Foundation – Terms of Use & Privacy Policy
 1. Website and App Terms and Conditions of Use
 Relating to [www.icnorath.org] and the IC Norath Mobile Application
